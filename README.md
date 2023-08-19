@@ -1,6 +1,6 @@
 <br>
 
-<h1 align="center">-----IP GRABBER-----</h1>
+<h1 align="center"> >> IP GRABBER << </h1>
 
 <br>
 
